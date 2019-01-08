@@ -1,3 +1,3 @@
 # ZTM-Course-Bootstrap
 
-Examples using Bootstrap from Andrei Neagoie's Zero to Mastery course on Udemy.
+Examples using Bootstrap and Animate.css from Andrei Neagoie's Zero to Mastery course on Udemy.
